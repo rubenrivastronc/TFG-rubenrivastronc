@@ -10,5 +10,4 @@ La aplicación móvil vAnswer_v1.0.apk es la necesaria únicamente a instalar en
 
 Se adjunta el resto de archivos para futuras mejoras o cambios.
 
-
 ----------------------------------------------------------------------------------------------------------
